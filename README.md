@@ -3,10 +3,10 @@
 
 # <h1 align=center> **PROYECTO FINAL - Grupo 4 (Data PT 09)** </h1>
 
-# <h1 align=center>**`Servicio de Taxis Verdes Complementarios (Arquitectura del proyecto)`**</h1>
+# <h1 align=center>**`Servicio de Taxis Verdes Complementarios`**</h1>
 
 <p align="center">
-<img src="https://github.com/AgustinNiederle/ProyectoFinalPrueba/blob/main/gr%C3%A1ficos/primera%20arquitectura%20de%20proyecto.jpg"  height=300>
+<img src=""  height=300>
 </p>
 
 ¡Bienvenidos al  proyecto FInal del Bootcamp de SoyHenry!
