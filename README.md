@@ -36,11 +36,18 @@ Crear una app que asocie a los pasajeros que hacen caminos similares o van a des
 <img src="https://github.com/AgustinNiederle/ProyectoFinalPrueba/blob/main/gr%C3%A1ficos/primera%20arquitectura%20de%20proyecto.jpg"  height=500>
 </p>
 
-
 ## **Propuesta de trabajo**
+Al viajar, uno desea llegar y tener resuelto el regreso a casa o el viaje al hotel, pero tememos que nos cobren más de lo que corresponde, que nos lleven por el camino más largo, que estén todos ocupados, que sea tarde y no consigamos servicio, a lo mejor tienes tu vehículo pero el estacionamiento no está libre o es muy costoso, etc. Tener asegurado un auto esperándonos afuera del aeropuerto, puede ser un servicio atractivo y útil. Desde el punto de vista de la empresa, también resulta de gran utilidad conocer o estimar el número de clientes para poder ingresar al aeropuerto/terminal sólo con las unidades necesarias y evitar así las esperas inútiles y los lapsos de inactividad.
 
-**`Transformaciones`**:  Para este MVP no necesitas perfección, ¡necesitas rapidez! ⏩ Vas a hacer estas, ***y solo estas***, transformaciones a los datos:
+**`Modelos ML`**:
+Al asociarnos con las empresas de bus (incluso la propia) y las de aviones, se va a poder captar a clientes antes de que toquen la pista de aterrizaje usando una APP que les permita reservar su viaje, identificando la zona destino: esto permitirá sugerir al usuario los compañeros de viaje según destino y otras preferencias a indicar en la misma (primer modelo ML) y tambien, los caminos óptimos al chofer del Taxi en cuestión (segundo modelo ML). 
+Consiguiendo los datos de vuelos y de empresas de transporte de larga distancia, para conocer el número los pasajeros que llegan a NY por día y horario, podemos estimar la cantidad de usuarios potenciales. Eso con el costo de electricidad por auto, podemos tener valores certeros del negocio.
 
++ Análisis Propuesto: conocer los costos y posibles ganancias del servicio propuesto.
++ Objetivos Puntuales: teniendo en cuenta las gasolineras, el tipo de vehiculos, los costos, las zonas mas congestionadas, determinar los mejores caminos posibles, el ahorro de CO2.
+
+
+**`KPIs`**:
 
 + a
 
@@ -51,12 +58,6 @@ Crear una app que asocie a los pasajeros que hacen caminos similares o van a des
 + d
 
 <br/>
-
-
-  
-<br/>
-
-
 
 ##### Racconto de observaciones mías: 
 Segun lo que voy viendo: Van a servir los datos de disponibilidad de estaciones de servicio por zonas (dataset1: Alternative_Fuel_Vehicles_US) y por
