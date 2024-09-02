@@ -49,11 +49,18 @@ Consiguiendo los datos de vuelos y de empresas de transporte de larga distancia,
 
 **`KPIs`**:
 
-+ a
++ a KPI 1: Shared travel (% de reducción de la huella de carbono): 
+Descripción: Cantidad de CO2 reducido al compartir el viaje (en el caso de los autos eléctricos sería el CO2 de la producción de la energía eléctrica que usa por el viaje). A mayor cantidad de personas por viaje, menor es el valor.
 
-+ b
+
++ b KPI 2: Reducción del tiempo de inactividad/espera por vehículo.
+Descripción: Los tiempos de inactividad por falta de pasajeros se pueden reducir al generar reservas previas por medio de la app, pero además se puede plantear una triangulación entre aeropuertos y terminales para que el chofer tenga las distancias entre pasajeros lo más cortas posibles.
+
   
-+ c
++ c KPI o eficiencia operativa= (tiempo de viaje con pasajero)/tiempo total 
+*Tiempo total = tiempo de recarga de energía + tiempo de viaje con pasajero + tiempo de viaje sin pasajero (regreso a estación, por ejemplo)
+Descripción: Mide cómo la APP puede reducrir los tiempos de esperay optimizar la ganancia del chofer y de la empresa.  
+
 
 + d
 
