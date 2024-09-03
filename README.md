@@ -22,7 +22,9 @@ Por otro lado, en 2021, a cuasa de la crisis ambiental, el presidente Biden apro
 Empresa de transporte de pasajeros a larga distancia que busca introducir taxis en Nueva York.
 
 ## Propuesta de sectorización del negocio
-Creemos conveniente para esta empresa que busca ingresar a otorgar servicios de taxis, introducir su servicio específico para los pasajeros de los servicios de transporte de larga distancia (autobuses y aviones). Actualmente pasan por los aeropuertos de nueva york, más de 80 mil perosnas por mes. Esto permitiría captar una zona del mercado lo suficientemente grande y que aún no posee la competencia y la sobreoferta presente en el servicio actual de taxis convencionales.
+Creemos conveniente para esta empresa que busca ingresar a otorgar servicios de taxis, introducir su servicio específico para los pasajeros de los servicios de transporte de larga distancia (autobuses y aviones). Actualmente pasan por los aeropuertos de nueva york, más de 10 millones de pasajeros por mes (*13 millones en julio de 2024). Esto permitiría captar una zona del mercado lo suficientemente grande y que aún no posee la competencia y la sobreoferta presente en el servicio actual de taxis convencionales.
+
+*fuente: https://www.panynj.gov/airports/en/statistics-general-info.html
 
 ## Perfil diferenciador del negocio
 Hemos hecho incapié en ser ecologicamente activos a la hora de pensar el nuevo servicio de taxis. Por esto, creemos que nuestro diferencial respecto a otros servicios de transporte que captan clientes en los aeropuertos tiene que provenir desde esta búsqueda, tanto para los usuarios como para la empresa de taxis.  
