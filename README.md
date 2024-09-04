@@ -88,7 +88,9 @@ El Dataset5 (Light Duty Vehicles), por otro lado, tiene los ID de los vehículos
 <img src="https://github.com/AgustinNiederle/ProyectoFinalPrueba/blob/main/gr%C3%A1ficos/primera%20arquitectura%20de%20proyecto.jpg"  height=500>
 </p>
 
-- **Metodología del trabajo**
-- **Repositorio GitHub**
-- **Cronograma general del proyecto (Gantt, Check list, Kanban**
-- **Despedida y dar pie a las preguntas**
+- **Cronograma general del proyecto (Gantt):**
+<p align="center">
+<img src="gráficos/Diagrama Gantt.pdf"  height=500>
+</p>
+[link](https://docs.google.com/spreadsheets/d/1AQ29tg_Rf70jkreNERpkFYWSLuZHVaZXYMhSw0qgopQ/edit?gid=0#gid=0)
+
