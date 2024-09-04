@@ -13,12 +13,12 @@
 
 ## **Descripción del proyecto**
 
-**Staff del proyecto con funciones.**
-Juan Aponte - Product Manager/Cloud Arquitect
-Facundo Dispenza - Data Engineer
-Agustín Niederle - Data Scientist
-Gabriel Cañete - Machine Learning Engineer
-Diego Camacho - Data Analyst
+**Staff:**
+- Juan Aponte - Product Manager/Cloud Arquitect
+- Facundo Dispenza - Data Engineer
+- Agustín Niederle - Data Scientist
+- Gabriel Cañete - Machine Learning Engineer
+- Diego Camacho - Data Analyst
 
 ## Contexto
 
