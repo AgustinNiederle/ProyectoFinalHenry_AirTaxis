@@ -12,7 +12,8 @@
 <hr>  
 
 ## **Descripción del proyecto**
-
+- **Staff del proyecto con funciones.**
+- **Contextualización de la problemática a tratar y lo que quiere nuestro cliente.**
 ## Contexto
 
 En la ciudad de nueva york existen miles de taxis en servicio de manera continua. Existen tres tipos diferentes de taxis: Amarillos, Verdes y Negros. Cada tipo de taxi tiene sus zonas designadas; el amarillo es el único que puede subir y bajar pasajeros en Manhattan, por ejemplo. Para esto, los taxis amarillos tiene que comprar su registro de habiltitación para poder otorgar dicho servicio en esta zona, que además, es por mucho, la de mayor caudal de pasajeros y por ende, la más rentable. Este registro ha llegado a valer un millón de dolares antes de la aparición de Uber; hoy fluctua entre los 200 mil dolares. Esto generó un conflicto por los registros de habilitación para taxis amarillos.
@@ -33,10 +34,9 @@ Hemos hecho incapié en ser ecologicamente activos a la hora de pensar el nuevo 
 
 Crear una app que asocie a los pasajeros que hacen caminos similares o van a destinos en las mismas zonas de NY, para recomendarles viajes compartidos en taxis eléctricos que permitan un servicio cómodo, de menor costo y más comprometido ecológicamente, ya que permite ayudar a reducir congestiones de tráfico, ruido ambiente y, sobre todo, la huella de carbono. :muscle:
 
-## **Arquitectura del proyecto**
-<p align="center">
-<img src="https://github.com/AgustinNiederle/ProyectoFinalPrueba/blob/main/gr%C3%A1ficos/primera%20arquitectura%20de%20proyecto.jpg"  height=500>
-</p>
+- **Objetivos del proyecto.**
+- **Objetivos específicos del proyecto.**
+- **Alcance del proyecto.**
 
 ## **Propuesta de trabajo**
 Al viajar, uno desea llegar y tener resuelto el regreso a casa o el viaje al hotel, pero tememos que nos cobren más de lo que corresponde, que nos lleven por el camino más largo, que estén todos ocupados, que sea tarde y no consigamos servicio, a lo mejor tienes tu vehículo pero el estacionamiento no está libre o es muy costoso, etc. Tener asegurado un auto esperándonos afuera del aeropuerto, puede ser un servicio atractivo y útil. Desde el punto de vista de la empresa, también resulta de gran utilidad conocer o estimar el número de clientes para poder ingresar al aeropuerto/terminal sólo con las unidades necesarias y evitar así las esperas inútiles y los lapsos de inactividad.
@@ -64,11 +64,25 @@ Descripción: Los tiempos de inactividad por falta de pasajeros se pueden reduci
 *Tiempo total = tiempo de recarga de energía + tiempo de viaje con pasajero + tiempo de viaje sin pasajero (regreso a estación, por ejemplo)
 Descripción: Mide cómo la APP puede reducrir los tiempos de esperay optimizar la ganancia del chofer y de la empresa.  
 
+**Detalles Técnicos ( Diego)**
 
+- **Análisis preliminar de calidad de datos (EDA**
 
 <br/>
 
 ##### Análisis de los datos otorgados: 
 Podemos encontrar en los datos otorgados por el Product Owner, que ya hay una identificación clara de disponibilidad de estaciones de servicio por zonas (dataset1: Alternative_Fuel_Vehicles_US) y por tipo de energia (con dataset2: Electric and Alternative Fuel Charging Stations). A esto se suma la eficiencia de cada modelo (dataset 3: ElectricCarData_Clean), con el costo de adquisición (en euros), versus eficiencia y cantidad de asientos (dataset4:ElectricCarData_Norm), 
 Por último, el atributo Rapid Charge, es información útil para poder evaluar los tiempos de operatividad propuestos en el KPI 1.
-El Dataset5 (Light Duty Vehicles), por otro lado, tiene los ID de los vehículos, sus fabricantes y los códigos de combustibles nomenclados. 
+El Dataset5 (Light Duty Vehicles), por otro lado, tiene los ID de los vehículos, sus fabricantes y los códigos de combustibles nomenclados.
+
+
+- **Arquitectura del proyecto**
+## **Arquitectura del proyecto**
+<p align="center">
+<img src="https://github.com/AgustinNiederle/ProyectoFinalPrueba/blob/main/gr%C3%A1ficos/primera%20arquitectura%20de%20proyecto.jpg"  height=500>
+</p>
+
+- **Metodología del trabajo**
+- **Repositorio GitHub**
+- **Cronograma general del proyecto (Gantt, Check list, Kanban**
+- **Despedida y dar pie a las preguntas**
