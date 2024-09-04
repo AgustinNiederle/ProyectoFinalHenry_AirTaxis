@@ -34,23 +34,24 @@ Creemos conveniente para esta empresa que busca ingresar a otorgar servicios de 
 [fuente](https://www.panynj.gov/airports/en/statistics-general-info.html)*
 
 ## Perfil diferenciador del negocio
-Hemos hecho incapié en ser ecológicamente activos a la hora de pensar el nuevo servicio de taxis. Por esto, creemos que nuestro diferencial, respecto a otros servicios de transporte que captan clientes en los aeropuertos, tiene que provenir desde esta búsqueda; tanto para los usuarios como para la empresa de taxis.  
+Hemos hecho incapié en ser ecológicamente activos a la hora de pensar el nuevo servicio de taxis. Por esto, creemos que nuestro diferencial, respecto a otros servicios de transporte que captan clientes en los aeropuertos, debe que provenir desde esta búsqueda; tanto para los usuarios como para la empresa de taxis. Desde el punto de vista de la empresa, también resulta de gran utilidad y eficiencia económica, porque conocer o estimar el número de clientes para poder ingresar al aeropuerto/terminal sólo con las unidades necesarias permitiría eliminar las esperas inútiles y los lapsos de actividad no rentados.
 
 ## Propuesta General
 
 Crear una app que asocie a los pasajeros que hacen caminos similares o van a destinos en las mismas zonas de NY, para recomendarles viajes compartidos en taxis eléctricos que permitan un servicio cómodo, de menor costo y más comprometido ecológicamente, ya que permite ayudar a reducir congestiones de tráfico, ruido ambiente y, sobre todo, la huella de carbono. :muscle:
 
-- **Objetivos del proyecto.**
+**Objetivos del proyecto.**
 
-- **Análisis Propuesto: conocer los costos y posibles ganancias del servicio propuesto.
+## **Análisis Propuesto: conocer los costos y posibles ganancias del servicio propuesto.**
   
-- **Objetivos Puntuales: teniendo en cuenta las gasolineras, el tipo de vehiculos, los costos, las zonas mas congestionadas, determinar los mejores caminos posibles, el ahorro de CO2 al compartir vehículo y la mejor recomendación de pasajeros.
+## **Objetivos Puntuales:** 
+Teniendo en cuenta las gasolineras, el tipo de vehículos, los costos, las zonas mas congestionadas, determinar los mejores caminos posibles, el ahorro de CO2 al compartir vehículo y la mejor recomendación de pasajeros.
   
-- **Alcance del proyecto.**
-Generar un respaldo de datos, estructura y stack tecnológico para la inteligencia suficiente durante el despligue y puesta en marcha del negocio planteado. Una vez operativo el serivicio, la aceptación del serivicio y el crecimiento de usuarios dependerá de factores no tratados en este análisis (publicidad, presencia institucional, calidad del serivicio, por ejemplo).-
+## **Alcance del proyecto**
+Generar un respaldo de datos, estructura y stack tecnológico para la inteligencia suficiente durante el despligue y puesta en marcha del negocio planteado. Una vez operativo el serivicio, la aceptación del serivicio y el crecimiento de usuarios dependerá de factores no tratados en este análisis (publicidad, presencia institucional, calidad del serivicio, por ejemplo).
 
 ## **Propuesta comercial del trabajo**
-Al viajar, uno desea llegar y tener resuelto el regreso a casa o el viaje al hotel, pero tememos que nos cobren más de lo que corresponde, que nos lleven por el camino más largo, que estén todos ocupados, que sea tarde y no consigamos servicio, a lo mejor tienes tu vehículo pero el estacionamiento no está libre o es muy costoso, etc. Tener asegurado un auto esperándonos afuera del aeropuerto, puede ser un servicio atractivo y útil. Desde el punto de vista de la empresa, también resulta de gran utilidad conocer o estimar el número de clientes para poder ingresar al aeropuerto/terminal sólo con las unidades necesarias y evitar así las esperas inútiles y los lapsos de inactividad.
+Todo viajero o viajera desea llegar y tener resuelta la lelgada al hotel, o el regreso a su casa. Luego de un larguísimo viaje entre aeropuertos, o durante horas enteras en la ruta, aún no hemos llegado al destino. Aún falta el último paso. Aún puede que nos cobren más de lo que corresponde, que nos lleven por el camino más largo, que sea tarde y no consigamos servicio, que todos los taxis estén ocupados y la espera y el viaje se alargue aún más, etc. Nada resultaría más útil que poder resolverlo con facilidad, claridad y confianza. Por esto, AirTaxi crea una solución: facilitar el último paso de tu viaje.
 
 **`Modelos ML`**:
 Al asociarnos con las empresas de bus (incluso la propia) y las de aviones, se podrí captar a clientes antes de que toquen la pista de aterrizaje usando una APP que les permita reservar su viaje, identificando la zona de destino: esto permitirá sugerir al usuario los compañeros de viaje según el destino y otras preferencias a indicar en la misma (primer modelo ML) y tambien, los caminos óptimos al chofer del Taxi en cuestión (segundo modelo ML). 
