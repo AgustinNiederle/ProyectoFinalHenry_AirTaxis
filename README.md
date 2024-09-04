@@ -40,12 +40,12 @@ Hemos hecho incapié en ser ecológicamente activos a la hora de pensar el nuevo
 
 Crear una app que asocie a los pasajeros que hacen caminos similares o van a destinos en las mismas zonas de NY, para recomendarles viajes compartidos en taxis eléctricos que permitan un servicio cómodo, de menor costo y más comprometido ecológicamente, ya que permite ayudar a reducir congestiones de tráfico, ruido ambiente y, sobre todo, la huella de carbono. :muscle:
 
-**Objetivos del proyecto.**
 
-## **Análisis Propuesto: conocer los costos y posibles ganancias del servicio propuesto.**
+## **Análisis Propuesto:**
+Conocer las oportnidades, los costos y posibles ganancias de un servicio de taxis en la ciudad de Nueva York.
   
 ## **Objetivos Puntuales:** 
-Teniendo en cuenta las gasolineras, el tipo de vehículos, los costos, las zonas mas congestionadas, determinar los mejores caminos posibles, el ahorro de CO2 al compartir vehículo y la mejor recomendación de pasajeros.
+Teniendo en cuenta la información de estaciones de carga eléctrica, el modelo y el rendimiento de vehículos, los costos del combustible, impuestos y peaje, las zonas más congestionadas y sus restricciones legales, nos planteamos poder recomendar un tipo de servicio rentable que, además, esté planteado con facilidades para el despliegue de un negocio con proyección. Incluyendo una APP para la reserva y la recomendación de los mejores caminos posibles para el taxi y modelo de recomendación para acompañantes manejado por el usuario, quien además podrá conocer el ahorro de su huella de Carbono gracias al uso de sservicio de viajes compartidos.
   
 ## **Alcance del proyecto**
 Generar un respaldo de datos, estructura y stack tecnológico para la inteligencia suficiente durante el despligue y puesta en marcha del negocio planteado. Una vez operativo el serivicio, la aceptación del serivicio y el crecimiento de usuarios dependerá de factores no tratados en este análisis (publicidad, presencia institucional, calidad del serivicio, por ejemplo).
