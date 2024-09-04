@@ -85,12 +85,12 @@ El Dataset5 (Light Duty Vehicles), por otro lado, tiene los ID de los vehículos
 - **Arquitectura del proyecto**
 ## **Arquitectura del proyecto**
 <p align="center">
-<img src="gráficos/Arquitectura Tecnológica UrbaGreen.png"  height=500>
+<img src="gráficos/Arquitectura Tecnológica UrbaGreen.png"  height=300>
 </p>
 
 - **Cronograma general del proyecto (Gantt):**
-  <p align="center">
+<p align="center">
 <img src="gráficos/Gantt.png"  height=500>
 </p>
 [link](https://docs.google.com/spreadsheets/d/1AQ29tg_Rf70jkreNERpkFYWSLuZHVaZXYMhSw0qgopQ/edit?gid=0#gid=0)
-
+</p>
