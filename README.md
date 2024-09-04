@@ -42,7 +42,7 @@ Crear una app que asocie a los pasajeros que hacen caminos similares o van a des
 
 
 ## **Análisis Propuesto:**
-Conocer las oportnidades, los costos y posibles ganancias de un servicio de taxis en la ciudad de Nueva York.
+Conocer las oportunidades, costos y posibles ganancias de un nuevo servicio de taxis en la ciudad de Nueva York.
   
 ## **Objetivos Puntuales:** 
 Teniendo en cuenta la información de estaciones de carga eléctrica, el modelo y el rendimiento de vehículos, los costos del combustible, impuestos y peaje, las zonas más congestionadas y sus restricciones legales, nos planteamos poder recomendar un tipo de servicio rentable que, además, esté planteado con facilidades para el despliegue de un negocio con proyección. Incluyendo una APP para la reserva y la recomendación de los mejores caminos posibles para el taxi y modelo de recomendación para acompañantes manejado por el usuario, quien además podrá conocer el ahorro de su huella de Carbono gracias al uso de sservicio de viajes compartidos.
