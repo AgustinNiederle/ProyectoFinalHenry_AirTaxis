@@ -13,7 +13,7 @@
 
 ## **Descripción del proyecto**
 
-- **Staff del proyecto con funciones.**
+**Staff del proyecto con funciones.**
 Juan Aponte - Product Manager/Cloud Arquitect
 Facundo Dispenza - Data Engineer
 Agustín Niederle - Data Scientist
