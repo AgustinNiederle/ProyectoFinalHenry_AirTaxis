@@ -90,7 +90,7 @@ El Dataset5 (Light Duty Vehicles), por otro lado, tiene los ID de los vehículos
 
 - **Cronograma general del proyecto (Gantt):**
 <p align="center">
-<img src="gráficos/Gantt.png"  height=500>
+<img src="https://github.com/AgustinNiederle/ProyectoFinalHenry_AirTaxis/blob/main/gr%C3%A1ficos/Gantt.png"  height=500>
 </p>
-[link](https://docs.google.com/spreadsheets/d/1AQ29tg_Rf70jkreNERpkFYWSLuZHVaZXYMhSw0qgopQ/edit?gid=0#gid=0)
+[link](https://fun023-my.sharepoint.com/:x:/g/personal/juan_aponte_unicervantes_edu_co/EfRsI6IjUaBJsYM3eFxUMQMBIwcP_lcrCh0cR6924Dfa8Q?rtime=hbJl9aHN3Eg)
 </p>
