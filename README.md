@@ -163,6 +163,9 @@ Cada etapa tiene herramientas y tecnologías específicas que pueden incluirse e
 •	Almacenamiento Temporal: Aquí puedes guardar los datos recolectados en archivos locales o en bases de datos temporales (e.g., bases de datos SQL o NoSQL).
 2. Almacenamiento y Gestión de Datos (Data Lake, Data Warehouse, Hadoop)
 •	Data Lake: como vamos a trabajar grandes volúmenes de datos no estructurados, necesitamos almacenarlos en un Data Lake, que permite guardar datos sin necesidad de estructurarlos primero. Herramientas como Hadoop o sistemas distribuidos de archivos como HDFS se usan para manejar grandes volúmenes de datos.
+
+Para el traspaso ETL de Datalake hacia GoogleQuery para generar el Datawharehouse con los datos optimizados y consolidados, se usaría Apache Beam, un framework unificado para procesamiento de datos en tiempo real o por lotes (batch) que puede ejecutar pipelines de datos utilizando diferentes motores de procesamiento, como Google Dataflow (que es totalmente gestionado en Google Cloud).
+
 •	Data Warehouse: Los datos estructurados y semi-estructurados (e.g., archivos CSV, bases de datos SQL) suelen almacenarse en un Data Warehouse. Esto es útil para almacenar datos consolidados y optimizados para consultas rápidas. Para esto, vamos a usar la Herramientas de Google BigQuery, porque nos va a permitir una integrabilidad con otras tecnologías que ya nos resultan conocidas y, por eso, nos dan la confianza de que son apropiadas para el objetivo del trabajo.
 •	Hadoop: Cuando estemos trabajando con grandes volúmenes de datos, para procesarlos de manera distribuida, masiva y en paralelo.
 •	AirFlow: nos permite automatizar el flujo de trabajo con scripts de DAGs definidos en Python.
