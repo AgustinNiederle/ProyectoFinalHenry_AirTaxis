@@ -82,10 +82,10 @@ Se adjunta un diccionario de los datos otorgados, que permiten entender con mayo
 
 Bajo la misma línea de pensamiento de Urban Green Solutions, sin perder de vista los objetivos planteados en el proyecto y con la finalidad de obtener un panorama real del estado y los retos a los que nos enfrentamos, se realiza un análisis preliminar de los datos:
 Para ello se extraen de las Agencias gubernamentales NYC Taxi and Limousine Comisión y Environment & Health de New York datos reales y actuales útiles para trabajar este proyecto.
-
+<p align="center">
 ![Barner](/Assets/Taxy&LimNYC.png)
 ![Barner](/Assets/Env&Health.png)
-
+</p>
 El análisis consta de 6 sets de datos:
 
 1. **Electric and Alternative Fuel Charging Stations:** Este dataset contiene información sobre las estaciones de carga de combustibles alternativos para vehículos (electricidad, Gas Natural, Gas Licuado, Gas de biodigestores, Etanol e hidrógeno) en EE.UU., después de analizar los datos se obtuvieron los siguientes insights:
@@ -94,16 +94,16 @@ El análisis consta de 6 sets de datos:
     - Mas de 45k estaciones abren las 24 horas 
     - Mas de 10k estaciones de carga ofrecen carga de vehículos eléctricos de forma gratuita y otras más solo cobran tiempo de estacionamiento
     - En NY existe un total de 3409 estaciones de carga para vehículos eléctricos y mas de 600 ofrecen servicio gratuito. 17%.
-
+<p align="center">
 ![Barner](/Assets/Fuel.png)
-
+</p>
 2. **Vehículos ligeros:** Este dataset contiene información adicional de 1993 a 2022 sobre vehículos ligeros (autos a camionetas hasta 2.7 ton) en él se almacenan datos referentes a tipo de combustible eficiencia de combustible alternativo (ciudad, carretera y combinado), los datos más importantes son:
     - La fábrica predominante es Ford
     - La categoría de estos vehículos predominante es sedan/wagon y le sigue SUV
     - Casi 15% son vehículos eléctricos.
-
+<p align="center">
 ![Barner](/Assets/VehiculosLigeros.jpg)
-
+</p>
 3. **Electric Car Data:** Con la finalidad de apegarse a la normativa en NY, se analiza este set de datos que contiene la información de los autos eléctricos disponibles en el mercado de EE.UU. La información relevante contenida es:
     - No existen datos nulos 
     - Existen información de marca, modelo, eficiencia, autonomía, Precio, entre otras 
@@ -116,9 +116,9 @@ El análisis consta de 6 sets de datos:
     - Áreas o espacios de zonas de taxis
     - Longitud de recorridos
     - Zonas de aeropuertos
-
+<p align="center">
 ![Barner](/Assets/Taxy-zones.png)
-
+</p>
 
 5. **Vehicle fuel Economy Data:** Este dataset contiene información acerca de la economía y emisiones de CO2 del combustible tradicional y alternativo en un periodo comprendido de 1984 a 2023. La relevancia de los datos es:
     - 120 gr/milla de emisiones en promedio por auto de combustible tradicional contra 0 gr/milla de vehículos electricos
