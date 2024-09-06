@@ -76,25 +76,3 @@ Descripción: Mide cómo la APP puede reducrir los tiempos de esperay optimizar 
 Se adjunta un diccionario de los datos otorgados, que permiten entender con mayor claridad la información obtenida por la exploración analítica de los mismos.
 [link](EDAs/Diccionarios de datos de los datasets.docx)
 
-- **Análisis preliminar de calidad de datos (EDA**
-Como puede verse en los notebooks del EDA [link EDA](https://github.com/AgustinNiederle/ProyectoFinalHenry_AirTaxis/tree/main/EDAs), los datos nos entregan información elocuente sobre tipo de tenologías convencionales y alternativas, su disponibilidad en la cuidad, tipo de vehículos por modelo, eficiencia y costos, como también el funcionamiento convencional del servicio.
-<br/>
-
-##### Resumen de los datos otorgados: 
-Podemos encontrar en los datos otorgados por el Product Owner, que ya hay una identificación clara de disponibilidad de estaciones de servicio por zonas (dataset1: Alternative_Fuel_Vehicles_US) y por tipo de energia (con dataset2: Electric and Alternative Fuel Charging Stations). A esto se suma la eficiencia de cada modelo (dataset 3: ElectricCarData_Clean), con el costo de adquisición (en euros), versus eficiencia y cantidad de asientos (dataset4:ElectricCarData_Norm), 
-Por último, el atributo Rapid Charge, es información útil para poder evaluar los tiempos de operatividad propuestos en el KPI 1.
-El Dataset5 (Light Duty Vehicles), por otro lado, tiene los ID de los vehículos, sus fabricantes y los códigos de combustibles nomenclados.
-
-
-- **Arquitectura del proyecto**
-## **Arquitectura del proyecto**
-<p align="center">
-<img src="gráficos/Arquitectura Tecnológica UrbaGreen.png"  height=300>
-</p>
-
-- **Cronograma general del proyecto (Gantt):**
-<p align="center">
-<img src="https://github.com/AgustinNiederle/ProyectoFinalHenry_AirTaxis/blob/main/gr%C3%A1ficos/Gantt.png"  height=500>
-</p>
-[link](https://fun023-my.sharepoint.com/:x:/g/personal/juan_aponte_unicervantes_edu_co/EfRsI6IjUaBJsYM3eFxUMQMBIwcP_lcrCh0cR6924Dfa8Q?rtime=hbJl9aHN3Eg)
-</p>
