@@ -144,7 +144,7 @@ Para una mejor visualización de los análisis preliminares a detalle se sugiere
 
 # ``` Arquitectura del proyecto ```
 
-El flujo del proyecto a desarrollar involucra varias etapas, esta arquitectura muestra el flujo desde la adquisición de datos hasta la implementación del modelo de Machine Learning. 
+El flujo del proyecto a desarrollar involucra varias etapas, esta arquitectura representa el proceso desde la adquisición de datos hasta la implementación del modelo de Machine Learning.
 Cada etapa tiene herramientas y tecnologías específicas que pueden incluirse en el proceso dependiendo de la escala del proyecto y los requisitos técnicos.
 1. Adquisición de Datos (Web Scraping, API, Archivos CSV)
 •	Descripción: La primera etapa consiste en adquirir los datos que necesitas para el análisis. Estos datos pueden provenir de diversas fuentes, como APIs, web scraping, archivos CSV, bases de datos relacionales, entre otros.
