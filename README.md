@@ -165,27 +165,29 @@ Cada etapa tiene herramientas y tecnologías específicas que pueden incluirse e
 •	Data Lake: como vamos a trabajar grandes volúmenes de datos no estructurados, necesitamos almacenarlos en un Data Lake, que permite guardar datos sin necesidad de estructurarlos primero. Herramientas como Hadoop o sistemas distribuidos de archivos como HDFS se usan para manejar grandes volúmenes de datos.
 •	Data Warehouse: Los datos estructurados y semi-estructurados (e.g., archivos CSV, bases de datos SQL) suelen almacenarse en un Data Warehouse. Esto es útil para almacenar datos consolidados y optimizados para consultas rápidas. Para esto, vamos a usar la Herramientas de Google BigQuery, porque nos va a permitir una integrabilidad con otras tecnologías que ya nos resultan conocidas y, por eso, nos dan la confianza de que son apropiadas para el objetivo del trabajo.
 •	Hadoop: Cuando estemos trabajando con grandes volúmenes de datos, para procesarlos de manera distribuida, masiva y en paralelo.
+•	AirFlow: nos permite automatizar el flujo de trabajo con scripts de DAGs definidos en Python.
 
-3. Limpieza y Preprocesamiento de Datos
+4. Limpieza y Preprocesamiento de Datos
 •	Descripción: Antes de poder utilizar los datos para el análisis o modelado, es fundamental limpiarlos y preprocesarlos. Esto incluye la eliminación de valores nulos, normalización, transformación de variables categóricas, etc.
 •	Herramientas Comunes: pandas, numpy, scikit-learn (para preprocesamiento). Aquí también podrías utilizar herramientas como Apache Spark si los datos son grandes y necesitan ser procesados en paralelo.
 
-4. Análisis Exploratorio de Datos (EDA)
+5. Análisis Exploratorio de Datos (EDA)
 Para el análisis exploratorio que va a permitir comprender mejor las características de los datos, patrones, tendencias, y posibles outliers, vamos a usar Python, por lo general a través del Visual Studio Code, con sus librerías pertinentes al trabajo: Pandas, para procesar los datasets y entenderlos, matplotlib y seaborn para poder graficar adecuadamente. Numpy si llegara a ser necesario alguno de sus recursos.
 
-5. Ingeniería de Características (Feature Engineering)
+6. Ingeniería de Características (Feature Engineering)
 En esta etapa, vamos a tansformar los datos en nuevas características que puedan mejorar el rendimiento de los modelos de Machine Learning. Para ellos, a través de Python necesitaremos incorporar librerías de ML, como scikit-learn, Featuretools, por ejemplo. Cuando estemos llevando el trabajo a bigdata, será necesario usar también Spark.
 
-6. Modelado (Machine Learning)
+7. Modelado (Machine Learning)
 Con los modelos de Machine Learning desarrollados, que pueden utilizar algoritmos de clasificación, regresión, clustering, por ejemplo, deberemos incorporar a las herramientas ya mencionadas para ML, a TensorFlow, como primera opción. Al tener que manejar grandes volúmenes de datos y modelos complejos que ya requieran mucho tiempo de entrenamiento, Hadoop (o Spark MLlib) será útil para distribuir esas tareas.
-7. Implementación y Despliegue del Modelo (Deploy)
+
+8. Implementación y Despliegue del Modelo (Deploy)
 Una vez se le haya dado la evaluación suficiente, Validación y su respectiva optimización, se procederá a la implementación. Para esto, usaremos un entorno de producción. Aquí es donde entran Docker y otras tecnologías específicas como FastAPI (para crear APIs que sirvan el modelo). Docker para contenerizar la aplicación y asegurarse de que pueda ejecutarse en cualquier entorno, empaquetando todas las dependencias y el código en un solo contenedor, esto facilita el despliegue en diferentes servidores o en la nube.
 Aquí volvemos al usar el Cloud Services de Google (AI Platform).
 
-8. Monitoreo del Modelo
+9. Monitoreo del Modelo
 Después de desplegar el modelo, es importante monitorear su rendimiento y asegurarse de que siga funcionando como se esperaba. Para esto usaremos MLflow.
 
-9. Mantenimiento del Pipeline de Datos
+10. Mantenimiento del Pipeline de Datos
 Airflow está diseñado para integrarse bien con servicios en la nube, incluida la infraestructura de Google Cloud Platform (GCP). Airflow con Google Cloud son una combinación poderosa para la automatización y mantenimiento de pipelines de datos a gran escala. Esto se debe, entre otras cosas, a que Airflow tiene integración nativa con GCS. Esto facilita la lectura y escritura de datos en los buckets de almacenamiento de Google directamente desde los DAGs de Airflow.
 Airflow también soporta integraciones con BigQuery, el data warehouse de Google, para realizar consultas y almacenar resultados de manera escalable. Puedes utilizar operadores como BigQueryOperator para ejecutar consultas SQL directamente dentro de tus DAGs. Por último, Google Cloud Composer es una solución de Airflow en la nube que permite ejecutar pipelines sin necesidad de la instalación y configuración de Airflow.
 
