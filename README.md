@@ -178,7 +178,7 @@ Después de desplegar el modelo, es importante monitorear su rendimiento y asegu
 Airflow está diseñado para integrarse bien con servicios en la nube, incluida la infraestructura de Google Cloud Platform (GCP). Airflow con Google Cloud son una combinación poderosa para la automatización y mantenimiento de pipelines de datos a gran escala. Esto se debe, entre otras cosas, a que Airflow tiene integración nativa con GCS. Esto facilita la lectura y escritura de datos en los buckets de almacenamiento de Google directamente desde los DAGs de Airflow.
 Airflow también soporta integraciones con BigQuery, el data warehouse de Google, para realizar consultas y almacenar resultados de manera escalable. Puedes utilizar operadores como BigQueryOperator para ejecutar consultas SQL directamente dentro de tus DAGs. Por último, Google Cloud Composer es una solución de Airflow en la nube que permite ejecutar pipelines sin necesidad de la instalación y configuración de Airflow.
 
-## **Arquitectura del proyecto**
+## **Gráfico de Stack y Arquitectura del proyecto**
 <p align="center">
 <img src="gráficos/Arquitectura Tecnológica UrbaGreen.png"  height=500>
 </p>
