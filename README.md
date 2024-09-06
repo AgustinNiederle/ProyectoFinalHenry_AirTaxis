@@ -126,7 +126,7 @@ El análisis consta de 6 sets de datos:
     - Longitud de recorridos
     - Zonas de aeropuertos
 
-![Barner](/gráficos/taxi zones.png)
+![Barner](gráficos/taxi zones.png)
 
 
 5. **Vehicle fuel Economy Data:** Este dataset contiene información acerca de la economía y emisiones de CO2 del combustible tradicional y alternativo en un periodo comprendido de 1984 a 2023. La relevancia de los datos es:
