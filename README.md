@@ -126,7 +126,7 @@ El análisis consta de 6 sets de datos:
     - Longitud de recorridos
     - Zonas de aeropuertos
 
-<p">
+<p align="center">
 <img src="gráficos/taxi zones.png"  height=300>
 </p>
 
