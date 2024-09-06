@@ -76,3 +76,82 @@ Descripción: Mide cómo la APP puede reducrir los tiempos de esperay optimizar 
 Se adjunta un diccionario de los datos otorgados, que permiten entender con mayor claridad la información obtenida por la exploración analítica de los mismos.
 [link](EDAs/Diccionarios de datos de los datasets.docx)
 
+<<<<<<< feature-analytics-bi
+#
+# ✔️```Análisis preliminar de la calidad de los datos (EDA)``` 
+
+Bajo la misma línea de pensamiento de Urban Green Solutions, sin perder de vista los objetivos planteados en el proyecto y con la finalidad de obtener un panorama real del estado y los retos a los que nos enfrentamos, se realiza un análisis preliminar de los datos:
+Para ello se extraen de las Agencias gubernamentales NYC Taxi and Limousine Comisión y Environment & Health de New York datos reales y actuales útiles para trabajar este proyecto.
+
+![Barner](/Assets/Taxy&LimNYC.png)
+![Barner](/Assets/Env&Health.png)
+
+El análisis consta de 6 sets de datos:
+
+1. **Electric and Alternative Fuel Charging Stations:** Este dataset contiene información sobre las estaciones de carga de combustibles alternativos para vehículos (electricidad, Gas Natural, Gas Licuado, Gas de biodigestores, Etanol e hidrógeno) en EE.UU., después de analizar los datos se obtuvieron los siguientes insights:
+    - Existen gran cantidad de nulos por columnas especificas de cada tipo de combustible, sin existir problema filtrando data.
+    - Casi 60k estaciones son destinadas para todo publico
+    - Mas de 45k estaciones abren las 24 horas 
+    - Mas de 10k estaciones de carga ofrecen carga de vehículos eléctricos de forma gratuita y otras más solo cobran tiempo de estacionamiento
+    - En NY existe un total de 3409 estaciones de carga para vehículos eléctricos y mas de 600 ofrecen servicio gratuito. 17%.
+
+![Barner](/Assets/Fuel.png)
+
+2. **Vehículos ligeros:** Este dataset contiene información adicional de 1993 a 2022 sobre vehículos ligeros (autos a camionetas hasta 2.7 ton) en él se almacenan datos referentes a tipo de combustible eficiencia de combustible alternativo (ciudad, carretera y combinado), los datos más importantes son:
+    - La fábrica predominante es Ford
+    - La categoría de estos vehículos predominante es sedan/wagon y le sigue SUV
+    - Casi 15% son vehículos eléctricos.
+
+![Barner](/Assets/VehiculosLigeros.jpg)
+
+3. **Electric Car Data:** Con la finalidad de apegarse a la normativa en NY, se analiza este set de datos que contiene la información de los autos eléctricos disponibles en el mercado de EE.UU. La información relevante contenida es:
+    - No existen datos nulos 
+    - Existen información de marca, modelo, eficiencia, autonomía, Precio, entre otras 
+    - Existen outliers en eficiencia y precio
+
+![Barner](/Assets/EV.png)
+
+4. **Taxy-zones:** Con la finaldad de estudiar y conocer las zonas en donde transitan los taxis en NY se analiza este dataset, el mismo contiene la siguiente información: 
+    - Las ciudades de New York
+    - Áreas o espacios de zonas de taxis
+    - Longitud de recorridos
+    - Zonas de aeropuertos
+
+![Barner](/Assets/Taxy-zones.png)
+
+
+5. **Vehicle fuel Economy Data:** Este dataset contiene información acerca de la economía y emisiones de CO2 del combustible tradicional y alternativo en un periodo comprendido de 1984 a 2023. La relevancia de los datos es:
+    - 120 gr/milla de emisiones en promedio por auto de combustible tradicional contra 0 gr/milla de vehículos electricos
+    - Casi $3k dólares contra $15.36 el promedio de comparación de costos de combustibles
+
+
+6. **AirQuality:** Calidad del aire: Dentro de este dataset se encuentran valores que miden la calidad del aire de acuerdo a una tabla con la cual se compara la concentración de contaminantes, medidos en µg/m3, así como registros de temporalidad por hora, día, mes y de requerir por año. Junto a este set de datos se analizan datos que contiene información sobre las ubicaciones de las mediciones:
+    - No nulos
+    - Valor máximo: 265.21
+    - Valor mínimo: 2.19
+    - Promedio: 9.88
+    - Asimismo, se pudo observar que los horarios del día en que existe menor calidad de aire son de 12 a 17 horas
+
+
+**Conclusión:**  
+    Confiabilidad: 
+        - Alta por venir de organismos públicos
+    Problemas detectados: 
+        - Gran cantidad de datos tiene nulos, solo en algunos datasets por ser datos de vehículos específicos
+        - Buena variabilidad:
+
+Para una mejor visualización de los análisis preliminares a detalle se sugiere ver en los notebooks del EDA [link EDA](https://github.com/AgustinNiederle/ProyectoFinalHenry_AirTaxis/tree/main/EDAs), los datos nos entregan información elocuente sobre tipo de tenologías convencionales y alternativas, su disponibilidad en la cuidad, tipo de vehículos por modelo, eficiencia y costos, como también el funcionamiento convencional del servicio.
+
+- **Arquitectura del proyecto**
+## **Arquitectura del proyecto**
+<p align="center">
+<img src="gráficos/Arquitectura Tecnológica UrbaGreen.png"  height=300>
+</p>
+
+- **Cronograma general del proyecto (Gantt):**
+<p align="center">
+<img src="https://github.com/AgustinNiederle/ProyectoFinalHenry_AirTaxis/blob/main/gr%C3%A1ficos/Gantt.png"  height=500>
+</p>
+[link](https://fun023-my.sharepoint.com/:x:/g/personal/juan_aponte_unicervantes_edu_co/EfRsI6IjUaBJsYM3eFxUMQMBIwcP_lcrCh0cR6924Dfa8Q?rtime=hbJl9aHN3Eg)
+</p>
+
