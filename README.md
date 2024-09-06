@@ -31,7 +31,7 @@
 Actualmente, sólo en la ciudad de nueva york, hay miles de taxis funcionando de manera continua. Parte de esto gracias a la política que buscó convertir a la matrópolis en una "ciudad que no duerme". Para esto, cada taxi necesita de tres choferes: uno por cada turno. Pero es importante destacar para nuestro análisis general, que se pueden encontrar tres tipos diferentes de texis: Amarillos, Verdes y Negros. En terminos generales, podemos decir que cada color indica en qué zonas tiene permitido transitar. Esto se debe a normativas que fueron necesarias para controlar y manejar la sobredemanda de Taxis. El taxi de color amarillo, por ejemplo, es el único que tiene permiso para subir y bajar pasajeros en Manhattan, que es la zona más popular y transitada de la ciudad. Para esto, los taxis amarillos tienen que comprar su registro de habilitación y así acceder a trabajar en dicha zona, que además, es por mucho la más rentable. Este registro llegó al valor en bolsa de un millón de dolares en 2011, pero ante la aparición de Uber cayó alrededor de los 200 mil dólares. Este registro es limitado, si uno quiere comprar uno debe esperar que un taxi esté dispuesto a venderlo; diámica usada para evitar que haya más taxis de los que puedan necesitarse. Esto generó un conflicto por los registros de habilitación para taxis amarillos, como es de imaginarse. Conflicto que no hizo más que empeorar con la llegada del Uber al mercado (autos negros).
 
 <p align="center">
-<img src="mapas/maoa noche.jpg"  height=250>
+<img src="mapas/distritos.png"  height=250>
 </p>
 
 
