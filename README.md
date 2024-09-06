@@ -76,7 +76,7 @@ Descripción: Mide cómo la APP puede reducrir los tiempos de esperay optimizar 
 Se adjunta un diccionario de los datos otorgados, que permiten entender con mayor claridad la información obtenida por la exploración analítica de los mismos.
 [link](EDAs/Diccionarios de datos de los datasets.docx)
 
-<<<<<<< feature-analytics-bi
+## **feature-analytics-bi**
 #
 # ✔️```Análisis preliminar de la calidad de los datos (EDA)``` 
 
